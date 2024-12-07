@@ -2,7 +2,7 @@
 meixinchoy's project expanded to include 2 players, along with a better UI, and new game rules to handle both players.
 
 ## Credit
-Amr, Yousef
+Yousef
 
 
 Original README.md:
