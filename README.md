@@ -41,7 +41,7 @@ meixinchoy's project was expanded to include 2 players, along with a better UI, 
   * hits body of other snake: Always lose.
   * hits head of other snake: Longer snake will win, if both players are of equal length game is declared a tie.
 #### Scoreboard/Winner
-  * When the game is over, the winning player is displayed along with a scoreboard
+  * When the game is over, the winning player is displayed along with a scoreboard.
   * The scoreboard shows both players' accumulated scores.
   * The user can also choose to exit the game or restart the game.
 #### Input Validation
