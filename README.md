@@ -2,6 +2,7 @@
 meixinchoy's project was expanded to include 2 players, along with a better UI, and new game rules to handle both players.
 
 # 2 Player Snake Game in Assembly
+###### *by Amr, Yousef*
 ## Features and Functions
 #### Game Speed Selection
   * User may choose from three speed levels, level 1 to level 3, level 3 being the slowest.
