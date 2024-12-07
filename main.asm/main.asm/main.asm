@@ -22,9 +22,6 @@ strPoints1 BYTE " Points for P1",0
 strPoints2 BYTE " Points for P2",0
 blank BYTE "                                     ",0
 
-; nuke BYTE "{%}", 3 DUP("{%}")
-; nukeXPos ?, 3 DUP(?)
-; nukeYPos ?, 3 DUP(?)
 
 snake BYTE "O", 104 DUP("o")
 snake2 BYTE "O", 104 DUP("o")
