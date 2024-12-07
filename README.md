@@ -1,7 +1,9 @@
-# Assembly Language Snake Game
-## About the project
-This program is a personal project when I was learning 'computer organization and architecture' in the second year of my Management Mathematics and Computing bachelors degree. The idea behind of this program was the classic "Snake" game. This program was made using Microsoft Visual Studio 2017's 32bit MASM architecture in protected mode (no interrupts) and the Irvine32 library.
+## Note:
+meixinchoy's project expanded to include 2 players, along with a better UI, and new game rules to handle both players.
 
+
+Original README.md:
+# Assembly Language Snake Game
 ## Features and Functions
 #### Game Speed Selection
   * User may choose from three speed levels, level 1 to level 3, level 3 being the slowest.
