@@ -81,4 +81,4 @@ To start the game you will need to install the following items:
 3. Configure asm file, paste code in and run program
 
 ## Credit
-Yousef
+Yousef Elmashad
